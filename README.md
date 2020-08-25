@@ -1,3 +1,5 @@
+# Archived see https://github.com/davidfischer-ch/awx-go
+
 # awx-go
 
 [![Build Status](https://travis-ci.org/Colstuwjx/awx-go.svg?branch=master)](https://travis-ci.org/Colstuwjx/awx-go)
